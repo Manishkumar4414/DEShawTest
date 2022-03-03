@@ -1,0 +1,12 @@
+Game class is main class.
+
+before starting the game it takes multiple feeds.
+1: it ask for Game Type which can be 10 point or 20 point game
+2: Player call for toss either player 1 or playe 2 can make a call
+3. Selection of coin side Head/Tail
+
+if Playe 1 won the toss than player 1 will begain or Player 2 will begain the game.
+
+After that we select the player which gains the point 1 for player 1 and 2 for player 2.
+
+If any of the player each to game point i.e 11 for 10 point game and 21 for 20 point game, game will stop.
